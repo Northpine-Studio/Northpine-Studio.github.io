@@ -95,3 +95,5 @@ footer.site {
 }
 
 footer.site .inner { padding-top: 20px; padding-bottom: 28px; }
+
+a { overflow-wrap: anywhere; }
