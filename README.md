@@ -1,4 +1,4 @@
-# Northpine Studio
+# Northpine Apps
 
 Developer site (GitHub Pages): https://northpine-studio.github.io/
 
